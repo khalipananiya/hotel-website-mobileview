@@ -7,14 +7,12 @@
 - Technologies Used
 - File Structure
 - How to Run
-- Presentation Link
 - License
 
 ## Overview
 This project is a responsive hotel website designed for mobile users. It allows visitors to search for accommodations, view special offers, read customer reviews, and access travel-related blog posts. The website provides a seamless and engaging user experience.
 ## Live Demo
-[Live Demo](https://hotel-website-qmpv.onrender.com)
-
+[Live Demo](https://hotel-website-mobileview.onrender.com)
 ## Program Features
 
 ### Navigation
@@ -59,13 +57,10 @@ This project is a responsive hotel website designed for mobile users. It allows 
    ```
 3. Open `index.html` in a web browser.
 
-## Presentation Link
-[Presentation Link](https://www.loom.com/share/e2f9a504d85142be91190181819c606e?sid=e30fe269-b7c8-497f-924b-eba70173e940)
-
 ## Author
-Name: [Muhammad Farouk]
-Contact: [salihiyaha4@gmail.com]
- [[Github Profile](https://github.com/AV65)]
+Name: [khalipa Adam Agit gbubakar]
+Contact: [khalipaadamabubakar@gmail.com]
+ [[Github Profile](https://github.com/khalipananiya)]
 
 ## License
 This project is licensed under the MIT License.
