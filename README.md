@@ -8,7 +8,9 @@
 - File Structure
 - How to Run
 - License
-
+- presentation loom vedio
+## presentation live demo
+[presentation loom vedio](https://www.loom.com/share/b3f9c712d19c42bb997fd7d3b74789bd?sid=64978eb2-be16-4223-bdf3-6046307ccc5b)
 ## Overview
 This project is a responsive hotel website designed for mobile users. It allows visitors to search for accommodations, view special offers, read customer reviews, and access travel-related blog posts. The website provides a seamless and engaging user experience.
 ## Live Demo
@@ -58,7 +60,7 @@ This project is a responsive hotel website designed for mobile users. It allows 
 3. Open `index.html` in a web browser.
 
 ## Author
-Name: [khalipa Adam Agit gbubakar]
+Name: [khalipa Adam Abubakar]
 Contact: [khalipaadamabubakar@gmail.com]
  [[Github Profile](https://github.com/khalipananiya)]
 
